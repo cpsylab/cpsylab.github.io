@@ -22,6 +22,10 @@ $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
+$dalgold-color:       #c08c0c !default;
+$dalgray-color:       #707372 !default;
+$dalblue-color:       #00bfff !default;
+$dalblue-color-dark: darken($dalblue-color, 20%); 
 
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);

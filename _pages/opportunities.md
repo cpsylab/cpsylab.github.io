@@ -20,7 +20,7 @@ We are actively looking for trainees to be involved with the following projects:
 
 We currently have two openings for research assistant positions (links to applications will be posted soon):  
 
-1. Creation of a system for managing family-structured database, with integration into various analytical pipelines  
+1. [Creation of a system for managing family-structured database, with integration into various analytical pipelines](https://jobs.nshealth.ca/nsha/job/Halifax-Research-Assistant-Computational-Psychiatry-Research%2C-R&I-NS-B3H-2E2/551789017/)
 2. Application of machine learning methods for predicting mood-stabilizer response using clinical and genomic data  
 
 ### Volunteers  

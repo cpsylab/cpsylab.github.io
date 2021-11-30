@@ -32,3 +32,10 @@ Our work has two streams of work on bipolar disorder:
 2. **Characterizing clinical and neurobiological diversity**  
   - Where we use and develop advanced statistical methods for the purpose of quantifying and characterizing diversity in bipolar disorder at biological and clinical levels. 
   - We focus a great deal on distinguishing lithium responsive from unresponsive bipolar disorder
+
+
+### Supported By
+
+<div style="text-align:center">
+<img src="https://dmrf.ca/img/logo.png" style="width:50%;"></img>
+</div>

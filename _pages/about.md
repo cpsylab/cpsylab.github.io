@@ -24,7 +24,7 @@ We are a research group studying how computations in the brain generate bipolar 
 
 ### Research
 
-Our work has two streams of work on bipolar disorder:  
+Our lab has two streams of work on bipolar disorder:  
 
 1. **Computational neurobiology**
   - Where we use computational models of neurons, circuits, and cognitive systems to understand mechanisms by which brain abnormalities result in observable features of bipolar disorder
@@ -32,7 +32,6 @@ Our work has two streams of work on bipolar disorder:
 2. **Characterizing clinical and neurobiological diversity**  
   - Where we use and develop advanced statistical methods for the purpose of quantifying and characterizing diversity in bipolar disorder at biological and clinical levels. 
   - We focus a great deal on distinguishing lithium responsive from unresponsive bipolar disorder
-
 
 ### Supported By
 

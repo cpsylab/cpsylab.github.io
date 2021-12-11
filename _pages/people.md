@@ -10,6 +10,10 @@ nav: true
 
 - [Abraham Nunes MD, PhD, MBA, FRCPC](https://abrahamnunes.com). Assistant Professor, Department of Psychiatry & Faculty of Computer Science, Dalhousie University, Halifax, NS, Canada
 
+### Postgraduate Medical Trainees
+
+- Jared Allman MD: Chronotype and lithium responsiveness in bipolar disorder
+
 ### Volunteers  
 
 - Saba Norouzi: Memory, executive function, and free recall behaviour in bipolar disorder  

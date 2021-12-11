@@ -37,5 +37,6 @@ Our work has two streams of work on bipolar disorder:
 ### Supported By
 
 <div style="text-align:center">
-<img src="https://dmrf.ca/img/logo.png" style="width:50%;"></img>
+    <img src="https://i0.wp.com/researchns.ca/wp-content/uploads/2020/08/researchNS-black-e1598896370234.png?zoom=2&resize=350%2C85&ssl=1" style="width:30%;">
+    <img src="https://dmrf.ca/img/logo.png" style="width:30%;"> 
 </div>

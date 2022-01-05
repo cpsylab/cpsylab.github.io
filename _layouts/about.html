@@ -41,6 +41,10 @@ layout: default
       {% include news.html %}
     {% endif %}
 
+    {% if page.grantlogos %}
+      {% include grant_logos.html %}
+    {% endif %}
+
     {% if page.selected_papers %}
       {% include selected_papers.html %}
     {% endif %}

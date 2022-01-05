@@ -12,18 +12,17 @@ Interested applicants should contact [Dr. Abraham Nunes](mailto:nunes@dal.ca).
 
 We are actively looking for trainees to be involved with the following projects:  
 
-1. Biophysical modelling of dentate gyrus and CA3 networks in bipolar disorder  
+1. [Biophysical modelling of dentate gyrus and CA3 networks in bipolar disorder](/bipolar-memory-phd/) 
 2. Computational cognitive modelling of interactions between executive and memory systems during free recall in bipolar disorder
 3. Prediction of mood-stabilizer response using clinical, genomic, and neurocognitive data
 
-### Research Assistants  
+### Research Staff Positions 
 
-We currently have two openings for research assistant positions:  
+We currently have an opportunity available for work as a research assistant:  
 
-1. [Creation of a system for managing family-structured database, with integration into various analytical pipelines](https://jobs.nshealth.ca/nsha/job/Halifax-Research-Assistant-Computational-Psychiatry-Research%2C-R&I-NS-B3H-2E2/551789017/)
-2. Application of machine learning methods for predicting mood-stabilizer response using clinical and genomic data  
+1. Application of machine learning methods for predicting mood-stabilizer response using clinical and genomic data  
 
-### Volunteers  
+### Volunteer Opportunities  
 
 Our lab is always looking for enthusiastic volunteers who have the following attributes:  
 

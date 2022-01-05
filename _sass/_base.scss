@@ -24,9 +24,9 @@ a{
 }
 
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-link-font-color);
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-link-font-color);
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {

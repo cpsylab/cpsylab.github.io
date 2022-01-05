@@ -13,7 +13,8 @@ profile:
   #  <p>QE I.I. Health Sciences Centre</p>
   #  <p>Halifax, Nova Scotia, Canada, B3H2E2</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
+grantlogos: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -33,9 +34,4 @@ Our lab has two streams of work on bipolar disorder:
   - Where we use and develop advanced statistical methods for the purpose of quantifying and characterizing diversity in bipolar disorder at biological and clinical levels. 
   - We focus a great deal on distinguishing lithium responsive from unresponsive bipolar disorder
 
-### Supported By
 
-<div style="text-align:center">
-    <img src="https://i0.wp.com/researchns.ca/wp-content/uploads/2020/08/researchNS-black-e1598896370234.png?zoom=2&resize=350%2C85&ssl=1" style="width:30%;">
-    <img src="https://dmrf.ca/img/logo.png" style="width:30%;"> 
-</div>

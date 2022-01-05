@@ -7,15 +7,15 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$dalgray-color};
-  --global-hover-color: #{$dalgray-color};
+  --global-theme-color: #{$black-color};
+  --global-hover-color: #{$synthwave-pink};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
+  --global-footer-link-color: #{$dalblue-color-dark};
+  --global-distill-app-color: #{$dalblue-color-dark};
   --global-divider-color: rgba(0,0,0,.1);
-  --global-header-color: #{$synthwave-purple};
-  --global-header-font-color: #{$white-color};
+  --global-header-color: #{$white-color};
+  --global-header-font-color: #{$black-color};
   --global-link-font-color: #{$dalblue-color-dark};
 
   .fa-sun {

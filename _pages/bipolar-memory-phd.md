@@ -8,7 +8,7 @@ nav: false
 
 **Location:** Dalhousie University, Halifax, Nova Scotia, Canada  
 
-**Starting Date:** September 2022
+**Starting Date:** September 2022 (with an option to start earlier)
 
 **Our Group:** The Computational Psychiatry Lab at Dalhousie University seeks to understand the neurocomputational basis of bipolar disorder and related conditions.  Our work involves computational modeling of neural systems, as well as development and application of machine learning methods for analyses of biomedical data.  We work with some of the world’s largest data sets concerning genomic, brain imaging, and clinical features of patients with bipolar disorder and their families.   
 

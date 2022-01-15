@@ -14,6 +14,10 @@ nav: true
 
 - Jared Allman MD: Chronotype and lithium responsiveness in bipolar disorder
 
+### PhD Students  
+
+- Katie Scott (Co-supervised with Martin Alda): Familial aspects of the bipolar phenotype
+
 ### Volunteers  
 
 - Saba Norouzi: Memory, executive function, and free recall behaviour in bipolar disorder  

@@ -18,16 +18,19 @@ nav: true
 
 - Katie Scott (Co-supervised with Martin Alda): Familial aspects of the bipolar phenotype
 
-### Staff   
+### Research Assistants 
 
 - Dario Brooks: Prediction of lithium responsiveness in bipolar disorder (BiPOLR Score)
+- Anas Tahir: Modelling Biological Neural Networks in Bipolar Disorder
 
 ### Volunteers  
 
-- Vanessa Pardo Nuñez: Memory, executive function, and free recall behaviour in bipolar disorder  
-- Harvey Wang: Biophysical neural circuit models in bipolar disorder
-- Shirin Mehrpooya: Memory and conditioning in bipolar disorder
-- Saba Norouzi: Memory, executive function, and free recall behaviour in bipolar disorder  
+- Vanessa Pardo Nuñez  
+- Harvey Wang
+- Shirin Mehrpooya
+- Saba Norouzi
+- Dhanyaa Madanlal
+- Daria Oanes
 
 ### Collaborators  
 

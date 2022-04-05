@@ -18,6 +18,10 @@ nav: true
 
 - Katie Scott (Co-supervised with Martin Alda): Familial aspects of the bipolar phenotype
 
+### MSc Students
+
+- Anuhya Suri: Computational Cognitive Modelling of Verbal Memory Impairments in Bipolar Disorder
+
 ### Research Assistants 
 
 - Dario Brooks: Prediction of lithium responsiveness in bipolar disorder (BiPOLR Score)
@@ -26,11 +30,13 @@ nav: true
 ### Volunteers  
 
 - Vanessa Pardo Nuñez  
-- Harvey Wang
+- Christian Guinard
+- Dhanyaa Madanlal
 - Shirin Mehrpooya
 - Saba Norouzi
-- Dhanyaa Madanlal
 - Daria Oanes
+- Kemi Olarotimi
+- Harvey Wang
 
 ### Collaborators  
 

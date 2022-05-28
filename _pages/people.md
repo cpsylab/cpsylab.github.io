@@ -20,17 +20,17 @@ nav: true
 
 ### MSc Students
 
+- Simon Leger: Mechanisms of Verbal Recognition Memory in Bipolar Disorder
 - Anuhya Suri: Computational Cognitive Modelling of Verbal Memory Impairments in Bipolar Disorder
 
 ### Research Assistants 
 
+- Vanessa Pardo Nuñez: All Computational Psychiatry Laboratory research studies
 - Dario Brooks: Prediction of lithium responsiveness in bipolar disorder (BiPOLR Score)
-- Anas Tahir: Modelling Biological Neural Networks in Bipolar Disorder
+- Christian Guinard: Neural Network Models of Delayed Recognition Memory 
 
 ### Volunteers  
 
-- Vanessa Pardo Nuñez  
-- Christian Guinard
 - Dhanyaa Madanlal
 - Shirin Mehrpooya
 - Saba Norouzi

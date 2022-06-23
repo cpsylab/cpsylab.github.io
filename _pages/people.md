@@ -16,27 +16,30 @@ nav: true
 
 ### PhD Students  
 
+- Maximilian Petzi (Co-supervised with Thomas Trappenberg): Computational Modelling of Memory Impairments in Bipolar Disorder
 - Katie Scott (Co-supervised with Martin Alda): Familial aspects of the bipolar phenotype
 
 ### MSc Students
 
+- Christian Guinard: Neural Network Models of Delayed Recognition Memory 
 - Simon Leger: Mechanisms of Verbal Recognition Memory in Bipolar Disorder
 - Anuhya Suri: Computational Cognitive Modelling of Verbal Memory Impairments in Bipolar Disorder
+- Harvey Wang (Co-supervised with Thomas Trappenberg): Computational Modelling of Memory Impairments in Bipolar Disorder
 
 ### Research Assistants 
 
 - Vanessa Pardo Nuñez: All Computational Psychiatry Laboratory research studies
 - Dario Brooks: Prediction of lithium responsiveness in bipolar disorder (BiPOLR Score)
-- Christian Guinard: Neural Network Models of Delayed Recognition Memory 
-
+ 
 ### Volunteers  
 
+- Andrea Sanchez Figueroa
 - Dhanyaa Madanlal
 - Shirin Mehrpooya
 - Saba Norouzi
 - Daria Oanes
 - Kemi Olarotimi
-- Harvey Wang
+
 
 ### Collaborators  
 

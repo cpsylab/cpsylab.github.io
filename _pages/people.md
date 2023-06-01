@@ -13,6 +13,8 @@ nav: true
 ### Postgraduate Medical Trainees
 
 - Jared Allman MD: Chronotype and lithium responsiveness in bipolar disorder
+- Jasmyn Cunningham MD MSc: Sleep-related predictors of response to intravenous ketamine in treatment resistant depression
+- Julie Munich MD: Safety and effectiveness of intramuscular ketamine for treatment resistant depression 
 
 ### PhD Students  
 
@@ -24,7 +26,7 @@ nav: true
 - Christian Guinard: Neural Network Models of Delayed Recognition Memory 
 - Simon Leger: Mechanisms of Verbal Recognition Memory in Bipolar Disorder
 - Anuhya Suri: Computational Cognitive Modelling of Verbal Memory Impairments in Bipolar Disorder
-- Harvey Wang (Co-supervised with Thomas Trappenberg): Computational Modelling of Memory Impairments in Bipolar Disorder
+- Harvey Wang (Co-supervised with Thomas Trappenberg): An Information-Geometric Formulation of Pattern Separation
 
 ### Research Assistants 
 
@@ -33,12 +35,8 @@ nav: true
  
 ### Volunteers  
 
-- Andrea Sanchez Figueroa
 - Dhanyaa Madanlal
-- Shirin Mehrpooya
-- Saba Norouzi
-- Daria Oanes
-- Kemi Olarotimi
+
 
 
 ### Collaborators  

@@ -15,6 +15,7 @@ nav: true
 - Jared Allman MD: Chronotype and lithium responsiveness in bipolar disorder
 - Jasmyn Cunningham MD MSc: Sleep-related predictors of response to intravenous ketamine in treatment resistant depression
 - Julie Munich MD: Safety and effectiveness of intramuscular ketamine for treatment resistant depression 
+- Taylor Legatto MD: Relapse rates following repetitive transcranial magnetic stimulation in treatment resistant depression
 
 ### PhD Students  
 

@@ -10,17 +10,7 @@ Interested applicants should contact [Dr. Abraham Nunes](mailto:nunes@dal.ca).
 
 ### Postdoctoral Fellows, Graduate Students, and Postgraduate Medical Trainees
 
-We are actively looking for trainees to be involved with the following projects:  
-
-1. [Biophysical modelling of dentate gyrus and CA3 networks in bipolar disorder](/bipolar-memory-phd/) 
-2. Computational cognitive modelling of interactions between executive and memory systems during free recall in bipolar disorder
-3. Prediction of mood-stabilizer response using clinical, genomic, and neurocognitive data
-
-### Research Staff Positions 
-
-We currently have an opportunity available for work as a research assistant:  
-
-1. Application of machine learning methods for predicting mood-stabilizer response using clinical and genomic data  
+Traineeships will be considered on a case-by-case basis. 
 
 ### Volunteer Opportunities  
 

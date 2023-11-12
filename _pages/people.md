@@ -12,33 +12,32 @@ nav: true
 
 ### Postgraduate Medical Trainees
 
+- Jasmyn Cunningham MD MSc: Sleep-related predictors of response and relapse in major depressive disorder
 - Jared Allman MD: Chronotype and lithium responsiveness in bipolar disorder
-- Jasmyn Cunningham MD MSc: Sleep-related predictors of response to intravenous ketamine in treatment resistant depression
-- Julie Munich MD: Safety and effectiveness of intramuscular ketamine for treatment resistant depression 
-- Taylor Legatto MD: Relapse rates following repetitive transcranial magnetic stimulation in treatment resistant depression
+- Natalie Chartrand MD: Predictors of Response and Relapse after Repetitive Transcranial Magnetic Stimulation in Difficult-to-Treat Depression 
+- Taylor Legatto MD: Predictors of Response and Relapse after Repetitive Transcranial Magnetic Stimulation in Difficult-to-Treat Depression 
+- Julie Munich MD: Safety and effectiveness of intramuscular ketamine for difficult-to-treat depression
+- Jay Toulany MD: Predictors of Response to Maintenance Therapy following IV Ketamine in Bipolar Depression
 
 ### PhD Students  
 
-- Maximilian Petzi (Co-supervised with Thomas Trappenberg): Computational Modelling of Memory Impairments in Bipolar Disorder
 - Katie Scott (Co-supervised with Martin Alda): Familial aspects of the bipolar phenotype
 
 ### MSc Students
 
-- Christian Guinard: Neural Network Models of Delayed Recognition Memory 
+- Christian Guinard (Co-supervised with Thomas Trappenberg): Neural Network Models of Delayed Recognition Memory 
 - Simon Leger: Mechanisms of Verbal Recognition Memory in Bipolar Disorder
-- Anuhya Suri: Computational Cognitive Modelling of Verbal Memory Impairments in Bipolar Disorder
+- Anuhya Suri (Co-supervised with Thomas Trappenberg): Computational Cognitive Modelling of Verbal Memory Impairments in Bipolar Disorder
 - Harvey Wang (Co-supervised with Thomas Trappenberg): An Information-Geometric Formulation of Pattern Separation
 
 ### Research Assistants 
 
 - Vanessa Pardo Nuñez: All Computational Psychiatry Laboratory research studies
-- Dario Brooks: Prediction of lithium responsiveness in bipolar disorder (BiPOLR Score)
  
 ### Volunteers  
 
 - Dhanyaa Madanlal
-
-
+- Dario Brooks
 
 ### Collaborators  
 

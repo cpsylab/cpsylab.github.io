@@ -14,7 +14,8 @@ nav: true
 
 - Jasmyn Cunningham MD MSc: Sleep-related predictors of response and relapse in major depressive disorder
 - Jared Allman MD: Chronotype and lithium responsiveness in bipolar disorder
-- Natalie Chartrand MD: Predictors of Response and Relapse after Repetitive Transcranial Magnetic Stimulation in Difficult-to-Treat Depression 
+- Natalie Chartrand MD: Predictors of Response and Relapse after Repetitive Transcranial Magnetic Stimulation in Difficult-to-Treat Depression
+- Anthony Hinde MD: Predictors of Response and Relapse after Repetitive Transcranial Magnetic Stimulation in Difficult-to-Treat Depression 
 - Taylor Legatto MD: Predictors of Response and Relapse after Repetitive Transcranial Magnetic Stimulation in Difficult-to-Treat Depression 
 - Julie Munich MD: Safety and effectiveness of intramuscular ketamine for difficult-to-treat depression
 - Jay Toulany MD: Predictors of Response to Maintenance Therapy following IV Ketamine in Bipolar Depression
